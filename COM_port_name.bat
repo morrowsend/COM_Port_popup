@@ -1,0 +1,1 @@
+pythonw C:\Users\myUsername\Installations\COM_port_popup.pyw
