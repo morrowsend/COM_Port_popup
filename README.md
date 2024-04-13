@@ -1,4 +1,6 @@
 # COM_Port_popup
+![Demo](https://raw.githubusercontent.com/morrowsend/COM_Port_popup/morrowsend/COM_Port_Popup.PNG)
+
 Python script that pops up the com port name when you plug it in.
 
 1. Modify the batch file in notepad to have  the path to this python file
