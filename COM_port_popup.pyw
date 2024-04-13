@@ -105,7 +105,7 @@ class Notification:
                         clean_com_name = com_string[:endPos]
                         # print(clean_com_name)
 
-# # reference for popup notifiction example: https://stackoverflow.com/questions/15921203/how-to-create-a-system-tray-popup-message-with-python-windowsfrom plyer.utils import platform
+# # reference for popup notifiction example: https://stackoverflow.com/questions/15921203/how-to-create-a-system-tray-popup-message-with-python-windows
 
                         notification.notify(
                             title=clean_com_name,
