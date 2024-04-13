@@ -1,7 +1,8 @@
 
 # This app should be added to your startup folder in windows:
 # to find this folder, hit the windows key and type "run"  then in the box
-# type "shell:startup".  Drop this file there and restart the computer 
+# type "shell:startup".  Create a batch file to call this python script into the
+# startup folder and restart the computer.
 # When you plug in a COM port, it should automatically pop up with the name.
 
 
